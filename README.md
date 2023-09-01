@@ -2,7 +2,7 @@
  
 
 
-- 🔭 Futuro Programadora Full Stack
+- 🔭 Futuro Programador Full Stack
 - 💻 Estou procurando trabalho na área de tecnologia
 - 🎩 Formada em Suporte em T.I
 
