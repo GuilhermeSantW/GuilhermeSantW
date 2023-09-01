@@ -4,9 +4,9 @@
 
 - 🔭 Futuro Programador Full Stack
 - 💻 Estou procurando trabalho na área de tecnologia
-- 🎩 Formada em Suporte em T.I
+- 🎩 Concluído em Suporte em T.I
 
-- 📚 Estudando Programação Web no IOS (Instituto de Oportunidade Social)
+- 📚 Cursando Programação Web no IOS (Instituto de Oportunidade Social)
 
 
 
