@@ -35,7 +35,7 @@ const Guilherme Santana = {
   editor: "Visual Studio Code",
   estudante: true,
 
-<img src="https://media3.giphy.com/media/TEILCythSScYyaaEDK/200w.webp?cid=ecf05e47s8dp5yl8352svl4u8vq9693n8fux2tyi2y5gmqz0&rid=200w.webp&ct=s" width="60"> <em><b>Seja Bem Vindo, Bora comer um cook? :)</em>
+<img src="https://media3.giphy.com/media/TEILCythSScYyaaEDK/200w.webp?cid=ecf05e47s8dp5yl8352svl4u8vq9693n8fux2tyi2y5gmqz0&rid=200w.webp&ct=s" width="60"> <em><b>Seja Bem Vindo, Bora comer um cookie? :)</em>
 
 
 ##
